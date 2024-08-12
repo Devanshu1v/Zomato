@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="zomato.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zomato</title>
+</head>
+<body>
+    <header>
+        <div class="nav">
+            <div>
+                <h4>Get the App</h4>
+            </div>
+            <ul class="nav-bar">
+                <li>Investor Relations</li>
+                <li>Add Reataurent</li>
+                <li>log in</li>
+                <li>sign up</li>
+            </ul>
+        </div>
+        <div class="head">
+            <img class="logo" src="https://b.zmtcdn.com/web_assets/8313a97515fcb0447d2d77c276532a511583262271.png">
+            <h3>Discover the best food & drinks in Indore</h3>
+            <div class="search">
+                <i class="fa-solid fa-location-dot"></i>
+                <p>Indore</p>
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" placeholder="Search for restaurant, cuisine or a dish">
+            </div>
+        </div>
+        <div class="header-image">
+            <img class="background-image" src="Assets/bg img.png">
+        </div>
+    </header>
+    
+</body>
+</html>
